@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.0036255182, g: 0.02567409, b: 0.15662353, a: 1}
+  m_IndirectSpecularColor: {r: 0.0034410208, g: 0.025359746, b: 0.1565784, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3467,6 +3467,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 514323449016774189, guid: d1abdaffef469494dad55a30085f337b,
+        type: 3}
+      propertyPath: m_ContentType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 514323449016774189, guid: d1abdaffef469494dad55a30085f337b,
+        type: 3}
+      propertyPath: m_KeyboardType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 514323449016774189, guid: d1abdaffef469494dad55a30085f337b,
+        type: 3}
+      propertyPath: m_CharacterValidation
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3480,6 +3495,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 89740595}
     m_Modifications:
+    - target: {fileID: 4750437924078998713, guid: 945fdbbb0b6c8a44db8dc4bd1354d9ed,
+        type: 3}
+      propertyPath: m_ContentType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750437924078998713, guid: 945fdbbb0b6c8a44db8dc4bd1354d9ed,
+        type: 3}
+      propertyPath: m_KeyboardType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750437924078998713, guid: 945fdbbb0b6c8a44db8dc4bd1354d9ed,
+        type: 3}
+      propertyPath: m_CharacterValidation
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4750437924078998714, guid: 945fdbbb0b6c8a44db8dc4bd1354d9ed,
         type: 3}
       propertyPath: m_Pivot.x
@@ -3603,6 +3633,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1674509377}
     m_Modifications:
+    - target: {fileID: 5512420691433044409, guid: bcc487d122e491b478faa236b7f22948,
+        type: 3}
+      propertyPath: m_ContentType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5512420691433044409, guid: bcc487d122e491b478faa236b7f22948,
+        type: 3}
+      propertyPath: m_KeyboardType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5512420691433044409, guid: bcc487d122e491b478faa236b7f22948,
+        type: 3}
+      propertyPath: m_CharacterValidation
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5512420691433044414, guid: bcc487d122e491b478faa236b7f22948,
         type: 3}
       propertyPath: m_Pivot.x
