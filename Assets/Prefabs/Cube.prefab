@@ -36,7 +36,7 @@ Transform:
   m_Children:
   - {fileID: 4620504598445422482}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4620504598109248213
 MeshFilter:
@@ -148,7 +148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a16f6628dd66cf5418afbd47632c074a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  feetPos: {fileID: 4620504598445422482}
 --- !u!114 &236458618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -161,12 +160,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d37831dd3de095f42a98fa1a33c8513e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AssignCubeSpeed: {fileID: 514323449016774189, guid: d1abdaffef469494dad55a30085f337b,
-    type: 3}
-  AssignCubeDistance: {fileID: 5512420691433044409, guid: bcc487d122e491b478faa236b7f22948,
-    type: 3}
-  AssignTimeToSpawn: {fileID: 4750437924078998713, guid: 945fdbbb0b6c8a44db8dc4bd1354d9ed,
-    type: 3}
+  assignCubeSpeed: {fileID: 0}
+  assignCubeDistance: {fileID: 0}
+  assignTimeToSpawn: {fileID: 0}
 --- !u!1 &4620504598445422493
 GameObject:
   m_ObjectHideFlags: 0

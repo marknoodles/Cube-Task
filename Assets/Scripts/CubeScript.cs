@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+
 public class CubeScript : MonoBehaviour
 {
     public static int movingSpeed;
